@@ -1,4 +1,4 @@
-# [Portfolio](https://github.com/mahmudhmh/portfolio/blob/main/assets/images/wave.svg)
+# [Portfolio]
 
 ## Overview
 
