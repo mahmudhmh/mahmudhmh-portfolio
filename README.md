@@ -1,5 +1,8 @@
 # [Portfolio](http://notyetproject.me/portfolio/)
 
+![peaceemo](https://github.com/mahmudhmh/portfolio/assets/54104161/1e2750ea-42a8-4dc3-acaa-eb685432c9a6)
+
+
 ## Overview
 
 Welcome to my portfolio! This repository showcases my skills, projects, and achievements as a [Your Profession/Title]. As an enthusiastic and dedicated professional, I am passionate about [Your Field of Interest] and constantly seeking opportunities to learn and grow.
