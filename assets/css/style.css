@@ -549,7 +549,7 @@ html {
 .header-wrapper .header-wrap .star-img .star-overlay #six {
   position: absolute;
   left: 160px;
-  top: 0;
+  top: -10px;
 }
 
 .header-wrapper .header-wrap .star-img .star-overlay #seven {
