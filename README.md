@@ -2,11 +2,11 @@
 
 ## Overview
 
-Welcome to my portfolio! This repository showcases my skills, projects, and achievements as a [Your Profession/Title]. As an enthusiastic and dedicated professional, I am passionate about [Your Field of Interest] and constantly seeking opportunities to learn and grow.
+Welcome to my portfolio! This repository showcases my skills, projects, and achievements as a Junior Software Engineer. As an enthusiastic and dedicated professional, I am passionate about Software Engineering and constantly seeking opportunities to learn and grow.
 
 ## About Me
 
-I am a Mahmoud Hussien Mahmoud/SOFTWARE ENGINEER with 1 years of experience in Web Development. Throughout my career, I have worked on a wide range of projects, gaining expertise in MERN Stack,DevOps.
+I am a Mahmoud Hussien Mahmoud/SOFTWARE ENGINEER with 1 year of experience in Web Development. Throughout my career, I have worked on a wide range of projects, gaining expertise in MERN Stack, and DevOps.
 
 ## Projects
 
