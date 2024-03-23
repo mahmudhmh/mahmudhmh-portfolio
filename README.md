@@ -10,7 +10,7 @@ I am a Mahmoud Hussien Mahmoud/SOFTWARE ENGINEER with 1 year of experience in We
 
 ## Projects
 
-### Project 1: 3DShirty-threejs-DALL.E
+### Project 1: 3DShirty-ThreeJS-DALL.E
 
 - Description:This project aims to build a visually engaging website that showcases 3D graphics of t-shirt models using the power of ThreeJS and React. The
   website utilizes React Three Fiber, a popular library for creating 3D graphics with ThreeJS in React, to render and animate the 3D models. The
